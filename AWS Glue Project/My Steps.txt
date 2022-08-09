@@ -1,0 +1,5 @@
+Amazon S3 -> Buckets -> Create Bucket -> Inside Bucket, upload csv. 
+AWS Glue -> Databases -> Create Database.
+AWS Glue -> Crawlers -> Add Crawler -> path = S3 bucket/csv.
+AWS Glue -> Crawlers -> Run Crawler.
+AWS Glue Studio -> Jobs -> Select Spark script editor (AWS Glue Data Catalog -> Amazon S3) -> Transformation Code -> Run.
