@@ -1,0 +1,2 @@
+Amazon S3 -> Buckets -> Create Bucket -> Inside Bucket, upload csv. 
+AWS Glue Studio -> Jobs -> Select Spark script editor -> Transformation Code -> Run.
